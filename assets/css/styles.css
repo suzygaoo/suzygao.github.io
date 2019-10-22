@@ -1,5 +1,5 @@
 html, body{
-	font-size:16px;
+	font-size:20px;
 	color: #dfdfdf;
 	background-color: #063647; 
 }
@@ -53,14 +53,14 @@ a.nav-item:hover {
 
 .social-container img{
 	max-width:100%;
-	max-height:175px;
+	max-height:150px;
 	margin-bottom:15px;
 }
 
 .project-figure {
 	margin: 0 auto 1rem auto;
-	max-height: 256px;
-	max-width: 256px;
+	max-height: 500px;
+	max-width: 600px;
 }
 
 .project-text {
