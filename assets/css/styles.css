@@ -31,7 +31,7 @@ section{
 
 .section-4 {
 	background-color: #063647;
-	padding: 0.2rem;
+	padding: 0.4rem;
 }
 
 a.nav-item {
@@ -48,7 +48,7 @@ a.nav-item:hover {
 }
 
 .intro-description{
-	padding-top: 1rem;
+	padding-top: 1.2rem;
 }
 
 .social-container img{
@@ -59,8 +59,8 @@ a.nav-item:hover {
 
 .project-figure {
 	margin: 0 auto 1rem auto;
-	max-height: 350px;
-	max-width: 450px;
+	height: 350px;
+	width: 450px;
 }
 
 .project-text {
