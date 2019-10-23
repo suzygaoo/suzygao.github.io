@@ -59,8 +59,8 @@ a.nav-item:hover {
 
 .project-figure {
 	margin: 0 auto 1rem auto;
-	height: 350px;
-	width: 450px;
+	max-height: 350px;
+	max-width: 450px;
 }
 
 .project-text {
