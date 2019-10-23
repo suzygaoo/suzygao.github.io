@@ -58,9 +58,9 @@ a.nav-item:hover {
 }
 
 .project-figure {
-	margin: 0 auto 1rem auto;
-	max-height: 400px;
-	max-width: 500px;
+	margin: 0 1rem;
+	max-height: 350px;
+	max-width: 450px;
 }
 
 .project-text {
@@ -71,7 +71,7 @@ a.nav-item:hover {
 	background-color: transparent;
 	border: 2px solid rgba(7, 59, 79, 0.5);
 	height: 600px;
-	width: 600px;
+	width: 500px;
 }
 
 .title {
